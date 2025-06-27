@@ -1,0 +1,13 @@
+.todo{
+    justify-content: center;
+    display: flex;
+    background-color: rgb(238, 255, 249);
+    border: 1px solid green;
+    padding: 10px;
+    margin: 5px;
+}
+h3{padding-right: 30px;}
+.done{background-color: rgb(199, 255, 236) ;
+height: 50%;
+margin-top:20px;
+border-radius: 0 5px;}
